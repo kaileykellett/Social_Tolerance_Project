@@ -1,0 +1,34 @@
+C:/Users/gtqyqs/Desktop/Social_Tolerance_Project/Social_Tolerance_Project/bin/Debug/Social_Tolerance_Project.exe.config
+C:/Users/gtqyqs/Desktop/Social_Tolerance_Project/Social_Tolerance_Project/bin/Debug/Social_Tolerance_Project.exe
+C:/Users/gtqyqs/Desktop/Social_Tolerance_Project/Social_Tolerance_Project/bin/Debug/Social_Tolerance_Project.pdb
+C:/Users/gtqyqs/Desktop/Social_Tolerance_Project/Social_Tolerance_Project/obj/Debug/Social_Tolerance_Project.csprojAssemblyReference.cache
+C:/Users/gtqyqs/Desktop/Social_Tolerance_Project/Social_Tolerance_Project/obj/Debug/Social_Tolerance_Project.Form1.resources
+C:/Users/gtqyqs/Desktop/Social_Tolerance_Project/Social_Tolerance_Project/obj/Debug/Social_Tolerance_Project.Properties.Resources.resources
+C:/Users/gtqyqs/Desktop/Social_Tolerance_Project/Social_Tolerance_Project/obj/Debug/Social_Tolerance_Project.csproj.GenerateResource.cache
+C:/Users/gtqyqs/Desktop/Social_Tolerance_Project/Social_Tolerance_Project/obj/Debug/Social_Tolerance_Project.csproj.CoreCompileInputs.cache
+C:/Users/gtqyqs/Desktop/Social_Tolerance_Project/Social_Tolerance_Project/obj/Debug/Social_Tolerance_Project.exe
+C:/Users/gtqyqs/Desktop/Social_Tolerance_Project/Social_Tolerance_Project/obj/Debug/Social_Tolerance_Project.pdb
+C:/Users/gtqyqs/Desktop/Social_Tolerance_Project/Social_Tolerance_Project/obj/Debug/Social_Tolerance_Project.AboutBox1.resources
+/Users/kaileykellett/Downloads/Social_Tolerance_Project 2/Social_Tolerance_Project/bin/Debug/Social_Tolerance_Project.exe.config
+/Users/kaileykellett/Downloads/Social_Tolerance_Project 2/Social_Tolerance_Project/bin/Debug/Social_Tolerance_Project.exe
+/Users/kaileykellett/Downloads/Social_Tolerance_Project 2/Social_Tolerance_Project/bin/Debug/Social_Tolerance_Project.pdb
+/Users/kaileykellett/Downloads/Social_Tolerance_Project 2/Social_Tolerance_Project/obj/Debug/Social_Tolerance_Project.csproj.AssemblyReference.cache
+/Users/kaileykellett/Downloads/Social_Tolerance_Project 2/Social_Tolerance_Project/obj/Debug/Social_Tolerance_Project.AboutBox1.resources
+/Users/kaileykellett/Downloads/Social_Tolerance_Project 2/Social_Tolerance_Project/obj/Debug/Social_Tolerance_Project.Form1.resources
+/Users/kaileykellett/Downloads/Social_Tolerance_Project 2/Social_Tolerance_Project/obj/Debug/Social_Tolerance_Project.Properties.Resources.resources
+/Users/kaileykellett/Downloads/Social_Tolerance_Project 2/Social_Tolerance_Project/obj/Debug/Social_Tolerance_Project.csproj.GenerateResource.cache
+/Users/kaileykellett/Downloads/Social_Tolerance_Project 2/Social_Tolerance_Project/obj/Debug/Social_Tolerance_Project.csproj.CoreCompileInputs.cache
+/Users/kaileykellett/Downloads/Social_Tolerance_Project 2/Social_Tolerance_Project/obj/Debug/Social_Tolerance_Project.exe
+/Users/kaileykellett/Downloads/Social_Tolerance_Project 2/Social_Tolerance_Project/obj/Debug/Social_Tolerance_Project.pdb
+\\Mac\Home\Downloads\high school projects\Social_Tolerance_Project 2\Social_Tolerance_Project\bin\Debug\Social_Tolerance_Project.exe.config
+\\Mac\Home\Downloads\high school projects\Social_Tolerance_Project 2\Social_Tolerance_Project\bin\Debug\Social_Tolerance_Project.exe
+\\Mac\Home\Downloads\high school projects\Social_Tolerance_Project 2\Social_Tolerance_Project\bin\Debug\Social_Tolerance_Project.pdb
+\\Mac\Home\Downloads\high school projects\Social_Tolerance_Project 2\Social_Tolerance_Project\obj\Debug\Social_Tolerance_Project.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\high school projects\Social_Tolerance_Project 2\Social_Tolerance_Project\obj\Debug\Social_Tolerance_Project.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\high school projects\Social_Tolerance_Project 2\Social_Tolerance_Project\obj\Debug\Social_Tolerance_Project.AboutBox1.resources
+\\Mac\Home\Downloads\high school projects\Social_Tolerance_Project 2\Social_Tolerance_Project\obj\Debug\Social_Tolerance_Project.Form1.resources
+\\Mac\Home\Downloads\high school projects\Social_Tolerance_Project 2\Social_Tolerance_Project\obj\Debug\Social_Tolerance_Project.Properties.Resources.resources
+\\Mac\Home\Downloads\high school projects\Social_Tolerance_Project 2\Social_Tolerance_Project\obj\Debug\Social_Tolerance_Project.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\high school projects\Social_Tolerance_Project 2\Social_Tolerance_Project\obj\Debug\Social_Tolerance_Project.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\high school projects\Social_Tolerance_Project 2\Social_Tolerance_Project\obj\Debug\Social_Tolerance_Project.exe
+\\Mac\Home\Downloads\high school projects\Social_Tolerance_Project 2\Social_Tolerance_Project\obj\Debug\Social_Tolerance_Project.pdb

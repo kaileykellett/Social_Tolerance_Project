@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D9FA3136-B054-429D-A5B2-E3A6A794BCB7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Social_Tolerance_Project/Form1.cs">
+    <Files>
+      <File FileName="Social_Tolerance_Project/AboutBox1.cs" />
+      <File FileName="Social_Tolerance_Project/Form1.cs" Line="26" Column="26" />
+      <File FileName="Social_Tolerance_Project/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Social_Tolerance_Project" expanded="True">
+            <Node name="Social_Tolerance_Project" expanded="True">
+              <Node name="Form1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Social__Tolerance__Project PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

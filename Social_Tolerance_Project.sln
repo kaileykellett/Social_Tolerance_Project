@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Social_Tolerance_Project", "Social_Tolerance_Project\Social_Tolerance_Project.csproj", "{D9FA3136-B054-429D-A5B2-E3A6A794BCB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9FA3136-B054-429D-A5B2-E3A6A794BCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9FA3136-B054-429D-A5B2-E3A6A794BCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9FA3136-B054-429D-A5B2-E3A6A794BCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9FA3136-B054-429D-A5B2-E3A6A794BCB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93D63CD0-6684-4A66-BF3C-75AC14434900}
+	EndGlobalSection
+EndGlobal
